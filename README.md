@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cakePhone
 - 👀 I’m interested in programming, web design and jailbreaking in general.
-- 🌱 I’m currently learning python (by myself) and scratch (with cs50)
+- 🌱 I’m currently learning python (by myself) and c (with cs50)
 - 💞️ I’m looking to collaborate on themes and tweaks for jailbroken iPhones/iPads.
 - 📫 How to reach me @Quartz88244782 on Twitter or my personal email:  ms8042939@gmail.com (I dont recommend emailing me)
